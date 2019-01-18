@@ -2,9 +2,15 @@
 
 gebruik maken van php zodat de gebruiker een blog kan toevoegen
 
-* inloggen met wachtwoord
-...* titel
- * text
- * datum/tijd
+1.registreren en inloggen met wachtwoord
+
+2.toevoegen van:
+* titel
+* text
+* datum/tijd
+
+3.opslaan
+
+
 
 
