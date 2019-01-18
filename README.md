@@ -2,6 +2,8 @@
 
 gebruik maken van php zodat de gebruiker een blog kan toevoegen
 
-* titel
+** titel
 * text
 * datum/tijd
+
+
