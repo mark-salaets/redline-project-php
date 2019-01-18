@@ -3,7 +3,7 @@
 gebruik maken van php zodat de gebruiker een blog kan toevoegen
 
 * inloggen met wachtwoord
- * titel
+...* titel
  * text
  * datum/tijd
 
